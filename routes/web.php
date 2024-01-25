@@ -19,7 +19,7 @@ use App\Http\Controllers\admin\PageController;
 */
 
 Route::get('/', [FrontendController::class,'index']);
-Route::get('/{slug}', [FrontendController::class,'page']);
+Route::get('/pages/{slug}', [FrontendController::class,'page']);
 
 Route::middleware(['auth', 'admin'])->prefix('/admins')->name('admin.')->group(function () {
     Route::get('/', [AdminController::class,'index'])->name('index');

@@ -1196,7 +1196,7 @@
                                             data-item-id=72820><span
                                                 class="awb-menu__main-background-default awb-menu__main-background-default_fade"></span><span
                                                 class="awb-menu__main-background-active awb-menu__main-background-active_fade"></span><a
-                                                href="/{{ $item->slug }}"
+                                                href="/pages/{{ $item->slug }}"
                                                 class="awb-menu__main-a awb-menu__main-a_regular"><span
                                                     class=menu-text>{{ $item->title }}</span></a>
                                         </li>
@@ -1319,7 +1319,7 @@
                                                                 @endphp
                                                                 @foreach ($footer as $item)
                                                                 <strong>
-                                                                    <a href="/{{ $item->slug }}">{{ $item->title }}
+                                                                    <a href="/pages/{{ $item->slug }}">{{ $item->title }}
                                                                     </a>
                                                                 </strong><br />
 
@@ -1389,7 +1389,7 @@
                                                                     @endphp
                                                                     @foreach ($footer as $item)
 
-                                                                    <a href="/{{ $item->slug }}">{{ $item->title }}</a><br />
+                                                                    <a href="/pages/{{ $item->slug }}">{{ $item->title }}</a><br />
                                                                     @endforeach
 
                                                                 </p>

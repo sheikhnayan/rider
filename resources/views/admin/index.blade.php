@@ -41,37 +41,6 @@
     </div>
   </div>
 </div>
-
-
-
-{{-- <div class="modal topup" tabindex="-1" role="dialog">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      @csrf
-      <div class="modal-body text-center">
-          <form action="{{ route('admin.add-user') }}" method="post">
-          @csrf
-              <h5>Add User</h5>
-
-              <!-- Username -->
-            <input class="form-control main mt-4 mb-4" name="name" type="text" placeholder="User Name" required>
-            <!-- Email -->
-            <input class="form-control main mt-4 mb-4" name="email" type="email" placeholder="Email Address" required>
-
-            <input class="form-control main mt-4 mb-4" name="phone" type="text" placeholder="Phone Number" required>
-
-            <!-- Password -->
-            <input class="form-control main mt-4 mb-4" name="password" type="password" placeholder="Password" required>
-
-              <button type="submit" class="btn btn-success mt-4" style="border-radius: 5px;">Add</button>
-          </form>
-      </div>
-      <div class="modal-footer">
-      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div> --}}
 @endsection
 @section('script')
 <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"> </script>
