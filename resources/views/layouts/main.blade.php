@@ -10,76 +10,24 @@
     <meta http-equiv=Content-Type content="text/html; charset=utf-8" />
     <meta name=viewport content="width=device-width, initial-scale=1" />
     <meta name=robots content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-    <title>Affordable Airport Transfer &amp; Chauffeur Services - HertsExec</title>
+    <title>Affordable Airport Transfer &amp; Airport Services </title>
     <meta name=description
         content="We are a specialist airport transfer and chauffeur service company with the single aim to provide premium ground transportation services to business and premium leisure passengers" />
-    <link rel=canonical href="https://hertsexec.co.uk/" />
+    <link rel=canonical href="https://imchauffeur.co.uk/" />
     <meta property=og:locale content=en_GB />
     <meta property=og:type content=website />
     <meta property=og:title content="Affordable Airport Transfer &amp; Chauffeur Services - HertsExec" />
     <meta property=og:description
         content="We are a specialist airport transfer and chauffeur service company with the single aim to provide premium ground transportation services to business and premium leisure passengers" />
-    <meta property=og:url content="https://hertsexec.co.uk/" />
-    <meta property=og:site_name content=HertsExec />
+    <meta property=og:url content="https://imchauffeur.co.uk/" />
+    <meta property=og:site_name content=imchauffeur />
     <meta property=article:modified_time content="2024-01-03T11:29:02+00:00" />
     <meta name=twitter:card content=summary_large_image />
-    <script type="application/ld+json" class=yoast-schema-graph>
-        {
-            "@context": "https://schema.org",
-            "@graph": [{
-                "@type": "WebPage",
-                "@id": "https://hertsexec.co.uk/",
-                "url": "https://hertsexec.co.uk/",
-                "name": "Affordable Airport Transfer & Chauffeur Services - HertsExec",
-                "isPartOf": {
-                    "@id": "https://hertsexec.co.uk/#website"
-                },
-                "datePublished": "2020-11-09T15:38:54+00:00",
-                "dateModified": "2024-01-03T11:29:02+00:00",
-                "description": "We are a specialist airport transfer and chauffeur service company with the single aim to provide premium ground transportation services to business and premium leisure passengers",
-                "breadcrumb": {
-                    "@id": "https://hertsexec.co.uk/#breadcrumb"
-                },
-                "inLanguage": "en-GB",
-                "potentialAction": [{
-                    "@type": "ReadAction",
-                    "target": ["https://hertsexec.co.uk/"]
-                }]
-            }, {
-                "@type": "BreadcrumbList",
-                "@id": "https://hertsexec.co.uk/#breadcrumb",
-                "itemListElement": [{
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home"
-                }]
-            }, {
-                "@type": "WebSite",
-                "@id": "https://hertsexec.co.uk/#website",
-                "url": "https://hertsexec.co.uk/",
-                "name": "HertsExec",
-                "description": "Just another WordPress site",
-                "potentialAction": [{
-                    "@type": "SearchAction",
-                    "target": {
-                        "@type": "EntryPoint",
-                        "urlTemplate": "https://hertsexec.co.uk/?s={search_term_string}"
-                    },
-                    "query-input": "required name=search_term_string"
-                }],
-                "inLanguage": "en-GB"
-            }]
-        }
-    </script>
-    <link rel=alternate type="application/rss+xml" title="HertsExec &raquo; Feed"
-        href="https://hertsexec.co.uk/feed/" />
-    <link rel=alternate type="application/rss+xml" title="HertsExec &raquo; Comments Feed"
-        href="https://hertsexec.co.uk/comments/feed/" />
     <link rel="shortcut icon" href="favicon.png.pagespeed.ce.wEa6HRWWkm.png" type="image/x-icon" />
     <script src="https://kit.fontawesome.com/efec89e16a.js" crossorigin="anonymous"></script>
     <meta property=og:title content=Home />
     <meta property=og:type content=article />
-    <meta property=og:url content="https://hertsexec.co.uk/" />
+    <meta property=og:url content="https://imchauffeur.co.uk/" />
     <meta property=og:site_name content=HertsExec />
     <meta property=og:description
         content="BUSINESS CLASS AIRPORT TRANSFER AND CHAUFFEUR SERVICES Call: {{ $setting->phone }} Get A Price        EXCELLENT SERVICE AT AFFORDABLE PRICES
@@ -840,13 +788,9 @@
     <script
         src="https://hertsexec.co.uk/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js"
         id=layerslider-transitions-js type="f1ce0768ced4773c926f21a7-text/javascript"></script>
-    <meta name=generator
-        content="Powered by LayerSlider 7.9.6 - Build Heros, Sliders, and Popups. Create Animations and Beautiful, Rich Web Content as Easy as Never Before on WordPress." />
     <link rel="https://api.w.org/" href="https://hertsexec.co.uk/wp-json/" />
     <link rel=alternate type="application/json" href="https://hertsexec.co.uk/wp-json/wp/v2/pages/52" />
     <link rel=EditURI type="application/rsd+xml" title=RSD href="https://hertsexec.co.uk/xmlrpc.php?rsd" />
-    <meta name=generator content="WordPress 6.4.2" />
-    <link rel=shortlink href='https://hertsexec.co.uk/' />
     <link rel=alternate type="application/json+oembed"
         href="https://hertsexec.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhertsexec.co.uk%2F" />
     <link rel=alternate type="text/xml+oembed"
@@ -1418,51 +1362,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        {{-- <div class="fusion-fullwidth fullwidth-box fusion-builder-row-16 fusion-flex-container hundred-percent-fullwidth non-hundred-percent-height-scrolling"
-                                            style="--link_hover_color: #b6795a;--awb-border-sizes-top:1px;--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-right:75px;--awb-padding-left:75px;--awb-padding-right-small:25px;--awb-padding-left-small:25px;--awb-flex-wrap:wrap;">
-                                            <div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap"
-                                                style="width:104% !important;max-width:104% !important;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );">
-                                                <div class="fusion-layout-column fusion_builder_column fusion-builder-column-41 fusion_builder_column_1_2 1_2 fusion-flex-column"
-                                                    style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:0px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:20px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;">
-                                                    <div
-                                                        class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column">
-                                                        <div class="fusion-text fusion-text-37">
-                                                            <p><a href=cookie-privacy-policy>Cookie &amp; Privacy
-                                                                    Policy</a> &#8211; <a
-                                                                    href=terms-and-conditions>Terms &amp; Conditions</a>
-                                                                &#8211; <a href="covid-precautions/">COVID
-                                                                    Precautions</a> &#8211; <a
-                                                                    href="https://hertsexec.co.uk/wp-content/uploads/2023/09/HETS-Slavery-Statement-1.pdf.pagespeed.ce.UDPuyQeBOE.pdf"
-                                                                    target=_blank rel=noopener>Slavery &amp; Human
-                                                                    Trafficking Statement</a>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="fusion-layout-column fusion_builder_column fusion-builder-column-42 fusion_builder_column_1_2 1_2 fusion-flex-column"
-                                                    style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:0px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:20px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;">
-                                                    <div
-                                                        class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column">
-                                                        <div class="fusion-text fusion-text-38 sm-text-align-center"
-                                                            style="--awb-content-alignment:right;">
-                                                            <p><span style="color: #000000;">© 2012 &#8211;
-                                                                    <script data-cfasync="false" src="{{ asset('front/email-decode.min.js') }}"></script>
-                                                                    <script type="f1ce0768ced4773c926f21a7-text/javascript">
-                                                        document.write(new Date().getFullYear())
-                                                    </script> Herts Executive
-                                                                    Travel Services. All Rights Reserved<br />
-                                                                    <a href="https://www.springermarketingservices.co.uk"
-                                                                        target=_blank rel=noopener>Website Design &amp;
-                                                                        Marketing</a> by <a
-                                                                        href="https://www.springermarketing.co.uk"
-                                                                        target=_blank rel=noopener>Springer
-                                                                        Marketing</a>
-                                                                </span></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div> --}}
                                     </div>
                                 </div>
                                 <div class=fusion-sliding-bar-wrapper>
@@ -1909,8 +1808,7 @@
                                     /* ]]> */
                                     </script>
                             <script
-                                    src="https://hertsexec.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-menu.js,qver=3.11.3.pagespeed.ce.8bb7fwCHN_.js"
-                                    id=fusion-menu-js type="f1ce0768ced4773c926f21a7-text/javascript"></script>
+                                    src="{{ asset('front/fusion-menu.js') }}"></script>
                             <script
                                     src="https://hertsexec.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/awb-mega-menu.js,qver=3.11.3.pagespeed.ce.MIZJxitjsz.js"
                                     id=awb-mega-menu-js type="f1ce0768ced4773c926f21a7-text/javascript"></script>
